@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('intToHours')
+angular.module('intToHours',['ng'])
 .filter('intToHours', function () {
     return function (input) {
 
