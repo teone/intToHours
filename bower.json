@@ -1,0 +1,18 @@
+{
+  "name": "Angular-Int-To-Hours",
+  "main": "intToHours.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/teone/intToHours",
+  "authors": [
+    "teone <teo.punto@gmail.com>"
+  ],
+  "description": "This is a simple AngularJS filter that is usefull to convert integer into Hours and Minutes.",
+  "keywords": [
+    "Angular",
+    "Hours",
+    "Minutes",
+    "Converter",
+    "Integer"
+  ],
+  "license": "MIT"
+}
